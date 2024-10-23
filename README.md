@@ -1,2 +1,3 @@
 # Emergency-Room-Visits
-**This repository shows how Data Analysis Expressions(DAX) was used to create a comprehensive and insightful interactive dashboard in Power BI that shows the Emergency Room Visits of a hospital over a 2 year period**
+**This repository demonstrates how Data Analysis Expressions (DAX) were utilized to create a comprehensive and interactive Power BI dashboard. The dashboard provides insightful analysis of Emergency Room Visits at a hospital over a two-year period, showcasing key metrics and trends to support data-driven decision-making.**
+
