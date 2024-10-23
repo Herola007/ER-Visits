@@ -132,3 +132,7 @@ This helps in identifying trends in patient satisfaction over time, allowing the
     Avg. Satisfaction Score Growth = DIVIDE([Avg Satisfaction Score Variance],[Avg. Satisfaction Score PM],0)
     ```
 
+With the aid of these carefully crafted DAX measures, I can now proceed to create a comprehensive and insightful dashboard. This dashboard will effectively visualize key metrics related to Emergency Room visits, such as average wait times, patient satisfaction scores, and trends over time.
+
+
+## Dashboard
