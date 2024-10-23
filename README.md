@@ -138,4 +138,8 @@ With the aid of these carefully crafted DAX measures, I can now proceed to creat
 ## Dashboard
 ![Dashboard](https://github.com/Herola007/ER-Visits/blob/main/Dashboard.png?raw=true)
 
-![Summary()
+![Summary](https://github.com/Herola007/ER-Visits/blob/main/Summary.png?raw=true)
+
+The interactive nature of the dashboard will allow hospital administrators to filter data by specific time periods, patient demographics, and other relevant factors, fostering a deeper understanding of patient experiences and needs. Ultimately, this comprehensive dashboard will serve as a vital tool for the hospital to monitor its performance, drive continuous improvement, and ensure high-quality patient care.
+
+**Link to the interactive dashboard**: https://app.powerbi.com/groups/me/reports/5bb85799-72c2-4465-9852-7f98d7b36512/f5c8728527aa5904d809?experience=power-bi
