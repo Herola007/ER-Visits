@@ -136,3 +136,6 @@ With the aid of these carefully crafted DAX measures, I can now proceed to creat
 
 
 ## Dashboard
+![Dashboard](https://github.com/Herola007/ER-Visits/blob/main/Dashboard.png?raw=true)
+
+![Summary()
